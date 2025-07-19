@@ -6,4 +6,4 @@ def home():
     return "Hello, CI/CD!"
 
 if _name_ == '_main_':
- app.run()
+    app.run()
